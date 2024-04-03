@@ -3,9 +3,11 @@
 
 - 🔭 I won an IT competition and made a programming game [Zostań EKO-Rolnikiem](https://edu.t-lem.com/#menu-nauka:6303)
 
-- 🌱 I’m currently learning **Unity**
+- 🌱 I’m currently **preparing for Matura IT (C++) exam**
 
-- ⚡ Fun fact **I'm into volunteering and working in NGO's**
+- 🔙 In the past **I was a Back-end Developer in Projekt Pędziwiatry**
+
+- ⚡ In my free time **I volunteer and work in NGO's**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
