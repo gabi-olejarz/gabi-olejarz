@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gabriela</h1>
 <h3 align="center">I'm a student with experience in C++ algorithms, currently looking for an internship.</h3>
 
+- 🔭 I won an IT competition and made a programming game [Zostań EKO-Rolnikiem](https://edu.t-lem.com/#menu-nauka:6303)
+
 - 🌱 I’m currently learning **Unity**
 
 - ⚡ Fun fact **I'm into volunteering and working in NGO's**
