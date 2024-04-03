@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriela</h1>
-<h3 align="center">I'm a student with experience in C++, currently looking for an internship.</h3>
+<h3 align="center">I'm a student with experience in C++ algorithms, currently looking for an internship.</h3>
 
 - 🌱 I’m currently learning **Unity**
 
