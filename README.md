@@ -3,7 +3,7 @@
 
 - 🔭 I won an IT competition and made a programming game [Zostań EKO-Rolnikiem](https://edu.t-lem.com/#menu-nauka:6303)
 
-- 🌱 I’m currently **preparing for Matura IT (C++) exam**
+- 🌱 I’m currently **looking for an intern**
 
 - 🔙 In the past **I was a Back-end Developer in Projekt Pędziwiatry**
 
